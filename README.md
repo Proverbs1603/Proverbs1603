@@ -5,13 +5,17 @@
 ![images_taeha7b_post_f44164a0-6b0d-4121-960c-fa5b7bfe3b0a_타자치는고양이](https://github.com/Proverbs1603/shinWoong-Kim/assets/110598358/aa213c26-ac1c-43d4-8ddc-d1ffc154a180)
 </div>
 
+[![Proverbs1603's GitHub stats](https://github-readme-stats.vercel.app/api?username=Proverbs1603&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/Proverbs1603/github-readme-stats)
 
 
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
-    <a href="https://velog.io/@devWoong">
+    <a href="https://velog.io/@devwoong">
         <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
     </a>
+  
+ [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=devwoong)](https://github.com/Proverbs1603/velog-readme-stats)
+
 </div>
 <br>
 
