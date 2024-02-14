@@ -1,7 +1,31 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+<div align=center>
+  
+![header](https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=Welcome%20to%20Woong's%20Github👋&reversal=false&section=header&fontSize=50&textBg=false&animation=scaleIn)
 
 ![images_taeha7b_post_f44164a0-6b0d-4121-960c-fa5b7bfe3b0a_타자치는고양이](https://github.com/Proverbs1603/shinWoong-Kim/assets/110598358/aa213c26-ac1c-43d4-8ddc-d1ffc154a180)
+</div>
 
+
+
+## 💻 DEV's log 💻
+<div style="display:flex; flex-direction:row;">
+    <a href="https://velog.io/@devWoong">
+        <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
+    </a>
+</div>
+<br>
+
+## 📞 Contact 📞
+<div style="display:flex; flex-direction:row;">
+    <a href="mailto:tlsdnd1667@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+    <a href="https://open.kakao.com/o/sQYhoL9f">
+        <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
+    </a>
+    <a href="https://www.instagram.com/wwoo_16">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+    </a>
 
 <div align=center><h1>📚 STACKS</h1></div>
 
