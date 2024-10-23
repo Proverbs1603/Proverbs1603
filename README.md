@@ -65,9 +65,16 @@
   <img src="https://img.shields.io/badge/rstudio-75AADB?style=for-the-badge&logo=r&logoColor=white" alt="RStudio Badge">
   <img src="https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"> 
 
+  <br>
+  
+  <h4>Crawling</h4>
+  <img src="https://img.shields.io/badge/beautifulsoup4-3776AB?style=for-the-badge&logo=beautifulsoup&logoColor=white"> 
+  <img src="https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"> 
+  
   <h4>Related Server</h4>
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white")
+
   <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge">
 
