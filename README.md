@@ -1,11 +1,52 @@
 
-![header](https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=Welcome%20to%20Woong's%20Github👋&reversal=false&section=header&fontSize=50&textBg=false&animation=scaleIn)
-<hr>
+![header](https://capsule-render.vercel.app/api?type=rounded&height=130&color=gradient&text=Welcome%20to%20Woong's%20Github👋&reversal=false&section=header&fontSize=50&textBg=false&animation=scaleIn)
 
-![images_taeha7b_post_f44164a0-6b0d-4121-960c-fa5b7bfe3b0a_타자치는고양이](https://github.com/Proverbs1603/shinWoong-Kim/assets/110598358/aa213c26-ac1c-43d4-8ddc-d1ffc154a180)
+## Education
+<div>
+  <img src="https://github.com/user-attachments/assets/6d91d23b-4cb1-40aa-98b4-ccb09e45a838" alt="logo" width="20" align="center" /> 
+  <strong>Chung-Ang University</strong><br>
+  <em>2019.02 - Present</em><br>
+  Major: Applied Statistics
+</div>
+
+<br>
+
+<div>
+  <img src="https://github.com/user-attachments/assets/8dba12af-fdc3-45ef-8c6e-5adda6f9a009" alt="logo" width="20" align="center" />
+  <strong>Programmers</strong><br>
+  <em>2024.09 - Present</em><br>
+  Data Engineering Dev Course 4th cohort
+</div>
+
+
+## Work Experience
+- **J Smart Solution Co., Ltd.**  
+  *2022.08 - 2023.12*  
+  Roles: ERP Software Developer, .NET Developer, Database Design
+
+- **SHURE Co., Ltd.**  
+  *2024.01 - 2024.03*  
+  Roles: Backend Engineer, Early-stage Server Architecture Design
+
+## Certifications
+- **제34회 데이터분석 준전문가 (ADsP)**
+  - Acquisition date: 2022.09.23
+
+- **제48회 SQL 개발자(SQLD)**
+  - Acquisition date: 2023.04.14
+
+- **제57회 데이터아키텍처 준전문가 (DASp)**
+  - Acquisition date: 2024.10.25
+
+- **빅데이터분석기사**
+  - Only the practical test remains
+    
+- **정보처리기사**
+  - Waiting for the announcement 
+<br/>
+<br/>
 
 [![Proverbs1603's GitHub stats](https://github-readme-stats.vercel.app/api?username=Proverbs1603&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/Proverbs1603/github-readme-stats)
-
 
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
@@ -55,7 +96,11 @@
   <h4>Database</h4>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
   <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL Badge">
+  <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql Badge">
   <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis Badge">
+  <img src="https://img.shields.io/badge/amazonredshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white" alt="amazonredshift Badge">
+  <img src="https://img.shields.io/badge/snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="snowflake Badge">
+  
 <!--   <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"> -->
   
   <br>
@@ -63,8 +108,8 @@
   <h4>Data</h4>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"> 
   <img src="https://img.shields.io/badge/rstudio-75AADB?style=for-the-badge&logo=r&logoColor=white" alt="RStudio Badge">
-  <img src="https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"> 
-
+  <img src="https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">
+  <img src="https://img.shields.io/badge/apachesuperset-20A6C9?style=for-the-badge&logo=apachesuperset&logoColor=white">
   <br>
   
   <h4>Crawling</h4>
