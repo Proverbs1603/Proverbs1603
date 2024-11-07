@@ -7,6 +7,8 @@
   <strong>Chung-Ang University</strong><br>
   <em>2019.02 - Present</em><br>
   Major: Applied Statistics
+  <br/>
+  Minor: Software Venture
 </div>
 
 <br>
