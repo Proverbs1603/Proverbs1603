@@ -86,13 +86,8 @@
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Csharp-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Csharp Badge">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
   
-  <br>
-
-  <h4>Web front</h4>
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
   <br>
 
   <h4>Database</h4>
@@ -100,18 +95,22 @@
   <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL Badge">
   <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql Badge">
   <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis Badge">
-  <img src="https://img.shields.io/badge/amazonredshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white" alt="amazonredshift Badge">
-  <img src="https://img.shields.io/badge/snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="snowflake Badge">
   
 <!--   <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"> -->
   
   <br>
 
-  <h4>Data</h4>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"> 
-  <img src="https://img.shields.io/badge/rstudio-75AADB?style=for-the-badge&logo=r&logoColor=white" alt="RStudio Badge">
-  <img src="https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">
-  <img src="https://img.shields.io/badge/apachesuperset-20A6C9?style=for-the-badge&logo=apachesuperset&logoColor=white">
+  <h4>Data</h4> 
+  <img src="https://img.shields.io/badge/airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white">
+  <img src="https://img.shields.io/badge/superset-20A6C9?style=for-the-badge&logo=apachesuperset&logoColor=white">
+  <img src="https://img.shields.io/badge/redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white" alt="amazonredshift Badge">
+  <img src="https://img.shields.io/badge/snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="snowflake Badge">
+  <br>
+
+  <h4>Web front</h4>
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
   <br>
   
   <h4>Crawling</h4>
@@ -127,9 +126,10 @@
 
   <h4>Development Tools</h4>
   <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> 
-  <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code Badge">
-  <img src="https://img.shields.io/badge/visualstudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio Badge">
-  <img src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">  
+  <img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code Badge">
+  <img src="https://img.shields.io/badge/vs-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio Badge">
+  <img src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">
+  <img src="https://img.shields.io/badge/rstudio-75AADB?style=for-the-badge&logo=r&logoColor=white" alt="RStudio Badge">
       
   <br>
 
@@ -147,6 +147,8 @@
 
   <h4>Communication</h4>
   <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&Color=white">
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&Color=white">
   <img src="https://img.shields.io/badge/ERDcloud-000000?style=for-the-badge&logoColor=white" alt="ERDcloud Badge">
+
 
   
