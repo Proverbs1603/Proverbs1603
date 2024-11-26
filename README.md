@@ -105,8 +105,9 @@
   <img src="https://img.shields.io/badge/superset-20A6C9?style=for-the-badge&logo=apachesuperset&logoColor=white">
   <img src="https://img.shields.io/badge/redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white" alt="amazonredshift Badge">
   <img src="https://img.shields.io/badge/snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="snowflake Badge">
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt Badge">
   <br>
-
+  
   <h4>AI</h4>
   <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikitlearn Badge">
   <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow Badge">
