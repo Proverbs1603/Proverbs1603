@@ -40,11 +40,12 @@
 - **제57회 데이터아키텍처 준전문가 (DASp)**
   - Acquisition date: 2024.10.25
 
-- **빅데이터분석기사**
-  - Only the practical test remains
-    
 - **정보처리기사**
-  - Waiting for the announcement 
+  - Acquisition date: 2024.12.11
+
+- **빅데이터분석기사**
+  - Acquisition date: 2024.12.20
+
 <br/>
 <br/>
 
@@ -93,18 +94,18 @@
   <h4>Database</h4>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
   <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL Badge">
-  <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql Badge">
   <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis Badge">
-  
+  <img src="https://img.shields.io/badge/redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white" alt="amazonredshift Badge">  
+  <img src="https://img.shields.io/badge/snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="snowflake Badge">  
 <!--   <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"> -->
   
   <br>
 
   <h4>Data</h4> 
   <img src="https://img.shields.io/badge/airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white">
+  <img src="https://img.shields.io/badge/kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="kafka Badge">  
+  <img src="https://img.shields.io/badge/spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="spark Badge">
   <img src="https://img.shields.io/badge/superset-20A6C9?style=for-the-badge&logo=apachesuperset&logoColor=white">
-  <img src="https://img.shields.io/badge/redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white" alt="amazonredshift Badge">
-  <img src="https://img.shields.io/badge/snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="snowflake Badge">
   <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt Badge">
   <br>
   
