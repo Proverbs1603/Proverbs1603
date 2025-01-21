@@ -51,15 +51,7 @@
 
 [![Proverbs1603's GitHub stats](https://github-readme-stats.vercel.app/api?username=Proverbs1603&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/Proverbs1603/github-readme-stats)
 
-## 💻 DEV's log 💻
-<div style="display:flex; flex-direction:row;">
-    <a href="https://velog.io/@devwoong">
-        <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
-    </a>
-  
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=devwoong)](https://github.com/Proverbs1603/velog-readme-stats)
 
-</div>
 <br>
 
 ## 📞 Contact 📞
@@ -74,7 +66,6 @@
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
     
-<br>
 <br>
 <br>
 <br>
