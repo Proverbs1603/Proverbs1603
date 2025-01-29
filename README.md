@@ -24,7 +24,7 @@
 ## Work Experience
 - **J Smart Solution Co., Ltd.**  
   *2022.08 - 2023.12*  
-  Roles: ERP Software Developer, .NET Developer, Database Design
+  Roles: ERP Software Engineer, .NET Developer, Database Design
 
 - **SHURE Co., Ltd.**  
   *2024.01 - 2024.03*  
