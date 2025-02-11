@@ -5,7 +5,7 @@
 <div>
   <img src="https://github.com/user-attachments/assets/6d91d23b-4cb1-40aa-98b4-ccb09e45a838" alt="logo" width="20" align="center" /> 
   <strong>Chung-Ang University</strong><br>
-  <em>2019.02 - Present</em><br>
+  <em>2019.02 - 2025.02</em><br>
   Major: Applied Statistics
   <br/>
   Minor: Software Venture
@@ -16,7 +16,7 @@
 <div>
   <img src="https://github.com/user-attachments/assets/8dba12af-fdc3-45ef-8c6e-5adda6f9a009" alt="logo" width="20" align="center" />
   <strong>Programmers</strong><br>
-  <em>2024.09 - Present</em><br>
+  <em>2024.09 - 2025.01</em><br>
   Data Engineering Dev Course 4th cohort
 </div>
 
